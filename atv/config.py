@@ -2,7 +2,7 @@ db_config = {
     "host": "localhost",
     "user": "root",
     "password": "root",
-    "database": "banco_teste",
+    "database": "atividade",
     "port": 3307,
 }
 
